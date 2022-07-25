@@ -19,7 +19,7 @@ button {
   font-size: 40px;
 }
 
-button:hover {
+button:active {
   animation: effect 0.2s infinite;
 }
 
